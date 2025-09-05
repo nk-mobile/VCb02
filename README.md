@@ -1,4 +1,5 @@
 ## Telegram бот с GigaChat (Python, telebot)
+<img width="548" height="524" alt="Выделение_927" src="https://github.com/user-attachments/assets/0036aa69-b28d-4c8d-a42d-76e18914f3cb" />
 
 ### Возможности
 - Приветствие при старте (`/start`).
